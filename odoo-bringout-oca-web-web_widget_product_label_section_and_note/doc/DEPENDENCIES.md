@@ -2,5 +2,5 @@
 
 This addon depends on:
 
-- [web](https://github.com/bringout/oca-ocb-core/tree/9d67cf00c06114fd0d5a87a06a485b3dabf57e2b/odoo-bringout-oca-ocb-web)
-- [account](https://github.com/bringout/oca-ocb-accounting/tree/3bdbee2033c3989f108204c90af9cf1db37bf0a0/odoo-bringout-oca-ocb-account)
+- [web](https://github.com/bringout/oca-ocb-core/tree/5d1ce43101a4d83b4ac660942e4a7a462823262f/odoo-bringout-oca-ocb-web)
+- [account](https://github.com/bringout/oca-ocb-accounting/tree/ddf6c0d80189f2cd640968f14b2d1346fca52a9f/odoo-bringout-oca-ocb-account)
