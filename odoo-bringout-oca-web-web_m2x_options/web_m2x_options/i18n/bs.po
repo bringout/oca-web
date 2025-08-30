@@ -1,0 +1,115 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_m2x_options
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid ", are you sure it does not exist yet?"
+msgstr ", da li ste sigurni da ne postoji već?"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "Create"
+msgstr "Kreiraj"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Create \"%s\""
+msgstr "Kreiraj \"%s\""
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "Create and Edit"
+msgstr "Kreiraj i uredi"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Create and edit..."
+msgstr "Kreiraj i uredi..."
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "Discard"
+msgstr "Napusti"
+
+#. module: web_m2x_options
+#: model:ir.model,name:web_m2x_options.model_ir_http
+msgid "HTTP Routing"
+msgstr "HTTP usmjeravanje"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/form.esm.js:0
+#, python-format
+msgid "New: %s"
+msgstr "Novo: %s"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "No records"
+msgstr "Nema zapisa"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/form.esm.js:0
+#, python-format
+msgid "Open: "
+msgstr "Otvori: "
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Search More..."
+msgstr "Traži dalje..."
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#, python-format
+msgid "Start typing..."
+msgstr "Počnite pisati..."
+
+#. module: web_m2x_options
+#: model:ir.model,name:web_m2x_options.model_ir_config_parameter
+msgid "System Parameter"
+msgstr "Sistemski parametar"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "You are creating a new"
+msgstr "Kreirate novi"
+
+#. module: web_m2x_options
+#. odoo-javascript
+#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#, python-format
+msgid "as a new"
+msgstr "kao nov"

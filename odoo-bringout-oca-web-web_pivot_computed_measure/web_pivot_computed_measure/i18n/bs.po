@@ -1,0 +1,149 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* web_pivot_computed_measure
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Add"
+msgstr "Dodaj"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Can be empty"
+msgstr "Može biti prazno"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Computed Measure"
+msgstr "Izračunata mjera"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Custom"
+msgstr "Prilagođeno"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Div (m1 / m2)"
+msgstr "Dij (m1 / m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Float"
+msgstr "Decimalni"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Format"
+msgstr "Format"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Formula"
+msgstr "Formula"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Integer"
+msgstr "Cijeli broj"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Measure 1"
+msgstr "Mjera 1"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Measure 2"
+msgstr "Mjera 2"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Mult (m1 * m2)"
+msgstr "Mult (m1 * m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Name"
+msgstr "Naziv:"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Operation"
+msgstr "Operacija"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Perc (m1 * 100 / m2)"
+msgstr "Procenat (m1 * 100 / m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Percentage"
+msgstr "Postotak"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Sub (m1 - m2)"
+msgstr "Sub (m1 - m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
+#, python-format
+msgid "Sum (m1 + m2)"
+msgstr "Zbir (m1 + m2)"
+
+#. module: web_pivot_computed_measure
+#. odoo-javascript
+#: code:addons/web_pivot_computed_measure/static/src/pivot/pivot_model.esm.js:0
+#, python-format
+msgid ""
+"This measure is currently used by a 'computed measure'. Please, disable the "
+"computed measure first."
+msgstr ""
