@@ -13,44 +13,50 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_advanced_search
 #. odoo-javascript
-#: code:addons/web_advanced_search/static/src/js/utils.esm.js:0
+#: code:addons/web_advanced_search/static/src/js/utils.esm.js
 #, python-format
 msgid " and "
 msgstr " i "
 
+# taken from hr.po
 #. module: web_advanced_search
 #. odoo-javascript
-#: code:addons/web_advanced_search/static/src/js/utils.esm.js:0
+#: code:addons/web_advanced_search/static/src/js/utils.esm.js
 #, python-format
 msgid " is not "
 msgstr " nije "
 
+# taken from hr.po
 #. module: web_advanced_search
 #. odoo-javascript
-#: code:addons/web_advanced_search/static/src/js/utils.esm.js:0
+#: code:addons/web_advanced_search/static/src/js/utils.esm.js
 #, python-format
 msgid " or "
 msgstr " ili "
 
+# taken from hr.po
 #. module: web_advanced_search
 #. odoo-javascript
-#: code:addons/web_advanced_search/static/src/search/filter_menu/advanced_filter_item.xml:0
+#: code:addons/web_advanced_search/static/src/search/filter_menu/advanced_filter_item.xml
 #, python-format
 msgid "Add Advanced Filter"
 msgstr "Dodaj napredni filter"
 
+# taken from hr.po
 #. module: web_advanced_search
 #. odoo-javascript
-#: code:addons/web_advanced_search/static/src/js/DomainSelector.esm.js:0
+#: code:addons/web_advanced_search/static/src/js/DomainSelector.esm.js
 #, python-format
 msgid "Domain not properly formed"
 msgstr "Domena nije postavljena ispravno"
 
+# taken from hr.po
 #. module: web_advanced_search
 #. odoo-javascript
-#: code:addons/web_advanced_search/static/src/js/DomainSelector.esm.js:0
+#: code:addons/web_advanced_search/static/src/js/DomainSelector.esm.js
 #, python-format
 msgid "Syntax error"
 msgstr "Greška sintakse"

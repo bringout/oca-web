@@ -20,7 +20,6 @@ msgstr "Akcija"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__active
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__active
 msgid "Active"
 msgstr "Aktivan"
 
@@ -31,13 +30,12 @@ msgstr "Arhivirano"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__avg
-#: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__avg
 msgid "Average"
 msgstr "Prosjek"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Average value of '%s'"
 msgstr "Prosječna vrijednost '%s'"
@@ -54,32 +52,26 @@ msgstr "Kategorija"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__count
-#: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__count
 msgid "Count"
 msgstr "Broj stavaka"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_uid
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_uid
 msgid "Created by"
 msgstr "Kreirao"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__create_date
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__create_date
 msgid "Created on"
 msgstr "Kreirano"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_category
-#: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_category
 msgid "Dashboard Categories"
 msgstr "Kategorije Dashboard-a"
 
 #. module: web_dashboard_tile
 #: model:ir.actions.act_window,name:web_dashboard_tile.action_category_2_tile
-#: model:ir.actions.act_window,name:web_dashboard_tile.action_tile_tile
-#: model:ir.ui.menu,name:web_dashboard_tile.menu_tile_tile
 msgid "Dashboard Items"
 msgstr "Stavke Dashboard-a"
 
@@ -100,7 +92,6 @@ msgstr "Prikaz"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__display_name
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__display_name
 msgid "Display Name"
 msgstr "Prikazani naziv"
 
@@ -111,15 +102,14 @@ msgstr "Domena"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain_error
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Domain Error"
 msgstr "Greška Domena"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Error"
 msgstr "Greška"
@@ -146,14 +136,14 @@ msgstr "Sakrij ako je null"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__id
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__id
 msgid "ID"
 msgstr "ID"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__hide_if_null
 msgid "If checked, the item will be hidden if the primary value is null."
-msgstr "Ako je označeno, stavka će biti sakrivena ako je primarna vrijednost null."
+msgstr ""
+"Ako je označeno, stavka će biti sakrivena ako je primarna vrijednost null."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__group_ids
@@ -162,6 +152,9 @@ msgid ""
 "note that it will only work for global tiles (that is, when User field is "
 "left empty)"
 msgstr ""
+"Ako je ovo polje postavljeno, samo korisnici ove grupe mogu vidjeti ovu "
+"pločicu. Molimo imajte na umu da će to raditi samo za globalne pločice (to "
+"jest, kada je User polje ostavljeno prazno)"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
@@ -170,26 +163,24 @@ msgstr "Stavke"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category____last_update
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile____last_update
 msgid "Last Modified on"
 msgstr "Zadnje mijenjano"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_uid
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_uid
 msgid "Last Updated by"
 msgstr "Zadnji ažurirao"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_date
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__write_date
 msgid "Last Updated on"
 msgstr "Zadnje ažurirano"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__action_id
 msgid "Let empty to use the default action related to the selected model."
-msgstr "Ostavite prazno da koristite defaultnu akciju vezanu za odabrani model."
+msgstr ""
+"Ostavite prazno da koristite defaultnu akciju vezanu za odabrani model."
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
@@ -198,39 +189,36 @@ msgstr "Glavna Vrijednost"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__max
-#: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__max
 msgid "Maximum"
 msgstr "Maksimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Maximum value of '%s'"
 msgstr "Maksimalna vrijednost '%s'"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__median
-#: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__median
 msgid "Median"
 msgstr "Medijan"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Median value of '%s'"
 msgstr "Medijan vrijednost '%s'"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__min
-#: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__min
 msgid "Minimum"
 msgstr "Minimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Minimum value of '%s'"
 msgstr "Minimalna vrijednost '%s'"
@@ -247,13 +235,12 @@ msgstr "Model"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__name
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__name
 msgid "Name"
 msgstr "Naziv:"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Number of records"
 msgstr "Broj zapisa"
@@ -280,7 +267,7 @@ msgstr "Postavke Pregleda"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Please select a field from the selected model."
 msgstr "Molimo izaberite polje iz odabranog modela."
@@ -322,11 +309,12 @@ msgstr "Primarna Vrijednost"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__primary_format
-#: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__secondary_format
 msgid ""
 "Python Format String valid with str.format()\n"
 "ie: '{:,} Kgs' will output '1,000 Kgs' if value is 1000."
 msgstr ""
+"Python Format String valjan sa str.format()\n"
+"ie: '{:,} Kgs' će dati '1,000 Kgs' ako je vrijednost 1000."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_error
@@ -360,7 +348,6 @@ msgstr "Sekundarni Pomoćnik"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__secondary_value
-#: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Secondary Value"
 msgstr "Sekundarna Vrijednost"
 
@@ -371,7 +358,6 @@ msgstr "Sigurnost"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__sequence
-#: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__sequence
 msgid "Sequence"
 msgstr "Sekvenca"
 
@@ -382,13 +368,11 @@ msgstr "Postavke"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__sum
-#: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__secondary_function__sum
 msgid "Sum"
 msgstr "Zbroj"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
-#: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
 msgid "Technical Informations"
 msgstr "Tehničke Informacije"
 
@@ -404,17 +388,18 @@ msgstr "Količina Pločica"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Total value of '%s'"
 msgstr "Ukupna vrijednost '%s'"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py:0
+#: code:addons/web_dashboard_tile/models/tile_tile.py
 #, python-format
 msgid "Unimplemented Feature. Search on Active field disabled."
-msgstr "Neimplementirana Funkcionalnost. Pretraga na Active polju je onemogućena."
+msgstr ""
+"Neimplementirana Funkcionalnost. Pretraga na Active polju je onemogućena."
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__user_id

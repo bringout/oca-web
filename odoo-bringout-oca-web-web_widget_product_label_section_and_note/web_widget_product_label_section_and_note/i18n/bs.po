@@ -15,49 +15,42 @@ msgstr ""
 
 #. module: web_widget_product_label_section_and_note
 #. odoo-javascript
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
+#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml
 #, python-format
 msgid "Click or press enter to add a description"
 msgstr "Kliknite ili pritisnite enter da dodate opis"
 
 #. module: web_widget_product_label_section_and_note
 #. odoo-javascript
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
+#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml
 #, python-format
 msgid "Click to remove/add the product name from the description."
 msgstr "Kliknite da uklonite/dodate naziv proizvoda iz opisa."
 
 #. module: web_widget_product_label_section_and_note
 #. odoo-javascript
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
+#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml
 #, python-format
 msgid "Enter a description"
 msgstr "Unesite opis"
 
 #. module: web_widget_product_label_section_and_note
 #. odoo-javascript
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
+#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml
 #, python-format
 msgid "Internal link"
 msgstr "Interni link"
 
 #. module: web_widget_product_label_section_and_note
 #. odoo-javascript
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
+#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml
 #, python-format
 msgid "Scan barcode"
 msgstr "Skeniraj barkod"
 
 #. module: web_widget_product_label_section_and_note
 #. odoo-javascript
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.esm.js:0
-#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.xml:0
+#: code:addons/web_widget_product_label_section_and_note/static/src/components/product_label_section_and_note_field/product_label_section_and_note_field.esm.js
 #, python-format
 msgid "Search a product"
 msgstr "Pretraži proizvod"

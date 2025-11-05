@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: web_send_message_popup
 #. odoo-javascript
-#: code:addons/web_send_message_popup/static/src/models/chatter/chatter.esm.js:0
+#: code:addons/web_send_message_popup/static/src/models/chatter/chatter.esm.js
 #, python-format
 msgid "Compose Email"
 msgstr "Kreiranje email-a"

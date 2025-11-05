@@ -13,6 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_dialog_size
 #: model:ir.model,name:web_dialog_size.model_ir_config_parameter
 msgid "System Parameter"

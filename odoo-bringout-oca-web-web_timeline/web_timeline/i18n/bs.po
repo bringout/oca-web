@@ -13,90 +13,103 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/js/timeline_renderer.js:0
+#: code:addons/web_timeline/static/src/js/timeline_renderer.js
 #, python-format
 msgid "<b>UNASSIGNED</b>"
 msgstr "<b>NE DODIJELJENO</b>"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/js/timeline_controller.esm.js:0
+#: code:addons/web_timeline/static/src/js/timeline_controller.esm.js
 #, python-format
 msgid "Are you sure you want to delete this record?"
 msgstr "Jeste li sigurni da želite brisati ovaj zapis?"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
+#: code:addons/web_timeline/static/src/xml/web_timeline.xml
 #, python-format
 msgid "Day"
 msgstr "Dan"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
+#: code:addons/web_timeline/static/src/xml/web_timeline.xml
 #, python-format
 msgid "Month"
 msgstr "Mjesec"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/js/timeline_renderer.js:0
+#: code:addons/web_timeline/static/src/js/timeline_renderer.js
 #, python-format
 msgid "Template \"timeline-item\" not present in timeline view definition."
-msgstr "Predložak za \"stavku_vremenske_crte\" nije pronađen u definiciji pogleda."
+msgstr ""
+"Predložak za \"stavku_vremenske_crte\" nije pronađen u definiciji pogleda."
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/js/timeline_view.js:0
-#: model:ir.model.fields.selection,name:web_timeline.selection__ir_ui_view__type__timeline
+#: code:addons/web_timeline/static/src/js/timeline_view.js
 #, python-format
 msgid "Timeline"
 msgstr "Vremenska crta"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/js/timeline_renderer.js:0
+#: code:addons/web_timeline/static/src/js/timeline_renderer.js
 #, python-format
 msgid "Timeline view has not defined 'date_start' attribute."
 msgstr "Pogled vremenske crte nema definiran atribut 'date_start'."
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
+#: code:addons/web_timeline/static/src/xml/web_timeline.xml
 #, python-format
 msgid "Today"
 msgstr "Danas"
 
+# taken from hr.po
 #. module: web_timeline
 #: model:ir.model,name:web_timeline.model_ir_ui_view
 msgid "View"
 msgstr "Pogled"
 
+# taken from hr.po
 #. module: web_timeline
 #: model:ir.model.fields,field_description:web_timeline.field_ir_ui_view__type
 msgid "View Type"
 msgstr "Vrsta pogleda"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/js/timeline_controller.esm.js:0
+#: code:addons/web_timeline/static/src/js/timeline_controller.esm.js
 #, python-format
 msgid "Warning"
 msgstr "Upozorenje"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
+#: code:addons/web_timeline/static/src/xml/web_timeline.xml
 #, python-format
 msgid "Week"
 msgstr "Tjedan"
 
+# taken from hr.po
 #. module: web_timeline
 #. odoo-javascript
-#: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
+#: code:addons/web_timeline/static/src/xml/web_timeline.xml
 #, python-format
 msgid "Year"
 msgstr "Godina"

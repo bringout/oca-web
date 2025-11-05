@@ -30,7 +30,7 @@ msgstr "Osnova"
 
 #. module: web_widget_open_tab
 #. odoo-javascript
-#: code:addons/web_widget_open_tab/static/src/js/open_tab_widget.esm.js:0
+#: code:addons/web_widget_open_tab/static/src/js/open_tab_widget.esm.js
 #, python-format
 msgid "Click to open on new tab"
 msgstr "Kliknite da otvorite u novom tabu"
@@ -42,7 +42,7 @@ msgstr "Modeli"
 
 #. module: web_widget_open_tab
 #. odoo-javascript
-#: code:addons/web_widget_open_tab/static/src/js/open_tab_widget.esm.js:0
+#: code:addons/web_widget_open_tab/static/src/js/open_tab_widget.esm.js
 #, python-format
 msgid "Open Tab"
 msgstr "Otvori tab"

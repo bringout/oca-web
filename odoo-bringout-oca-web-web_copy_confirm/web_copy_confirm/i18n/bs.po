@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: web_copy_confirm
 #. odoo-javascript
-#: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js:0
+#: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js
 #, python-format
 msgid "Are you sure that you would like to copy this record?"
 msgstr "Jeste li sigurni da želite kopirati ovaj zapis?"
 
 #. module: web_copy_confirm
 #. odoo-javascript
-#: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js:0
+#: code:addons/web_copy_confirm/static/src/js/web_copy_confirm.esm.js
 #, python-format
 msgid "Duplicate"
 msgstr "Dupliciraj"

@@ -13,6 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_environment_ribbon
 #: model:ir.model,name:web_environment_ribbon.model_web_environment_ribbon_backend
 msgid "Web Environment Ribbon Backend"

@@ -13,14 +13,15 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_dark_mode
 #. odoo-javascript
-#: code:addons/web_dark_mode/static/src/js/switch_item.esm.js:0
-#: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode
+#: code:addons/web_dark_mode/static/src/js/switch_item.esm.js
 #, python-format
 msgid "Dark Mode"
 msgstr "Tamni način"
 
+# taken from hr.po
 #. module: web_dark_mode
 #: model:ir.model.fields,field_description:web_dark_mode.field_res_users__dark_mode_device_dependent
 msgid "Device Dependent Dark Mode"
@@ -29,8 +30,9 @@ msgstr "Tamni način zavisi od uređaja"
 #. module: web_dark_mode
 #: model:ir.model,name:web_dark_mode.model_ir_http
 msgid "HTTP Routing"
-msgstr "HTTP Routing"
+msgstr "HTTP usmjeravanje"
 
+# taken from hr.po
 #. module: web_dark_mode
 #: model:ir.model,name:web_dark_mode.model_res_users
 msgid "User"

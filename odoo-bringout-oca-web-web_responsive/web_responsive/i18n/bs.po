@@ -13,118 +13,122 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
+#: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml
 #, python-format
 msgid "All"
 msgstr "Sve"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
+#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml
 #, python-format
 msgid "CLEAR"
 msgstr "OČISTI"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
-#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
+#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml
 #, python-format
 msgid "Discard"
 msgstr "Odustani"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
-#: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
+#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml
 #, python-format
 msgid "FILTER"
 msgstr "TRAŽI"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
+#: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml
 #, python-format
 msgid "Home Menu"
 msgstr "Glavni izbornik"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
+#: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml
 #, python-format
 msgid "Log note"
 msgstr "Zabilježi napomenu"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
-#: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
+#: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml
 #, python-format
 msgid "Maximize"
 msgstr "Maksimiziraj"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
-#: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml:0
+#: code:addons/web_responsive/static/src/components/attachment_viewer/attachment_viewer.xml
 #, python-format
 msgid "Minimize"
 msgstr "Minimiziraj"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
-#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
+#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml
 #, python-format
 msgid "New"
 msgstr "Novi"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
-#: code:addons/web_responsive/static/src/components/search_panel/search_panel.xml:0
+#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml
 #, python-format
 msgid "SEE RESULT"
 msgstr "VIDI REZULTAT"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
-#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml:0
+#: code:addons/web_responsive/static/src/legacy/xml/form_buttons.xml
 #, python-format
 msgid "Save"
-msgstr "Spremi"
+msgstr "Snimi"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml:0
+#: code:addons/web_responsive/static/src/components/apps_menu/apps_menu.xml
 #, python-format
 msgid "Search menus..."
-msgstr "Pretraži izbornike..."
+msgstr "Pretraži opcije..."
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
+#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml
 #, python-format
 msgid "Search..."
 msgstr "Pretraži..."
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml:0
+#: code:addons/web_responsive/static/src/components/chatter_topbar/chatter_topbar.xml
 #, python-format
 msgid "Send message"
 msgstr "Pošalji poruku"
 
+# taken from hr.po
 #. module: web_responsive
 #. odoo-javascript
-#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml:0
+#: code:addons/web_responsive/static/src/components/control_panel/control_panel.xml
 #, python-format
 msgid "View switcher"
 msgstr "Izmjena pogleda"

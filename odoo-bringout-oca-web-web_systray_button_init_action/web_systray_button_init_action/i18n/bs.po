@@ -15,8 +15,7 @@ msgstr ""
 
 #. module: web_systray_button_init_action
 #. odoo-javascript
-#: code:addons/web_systray_button_init_action/static/src/button/button.xml:0
-#: code:addons/web_systray_button_init_action/static/src/button/button.xml:0
+#: code:addons/web_systray_button_init_action/static/src/button/button.xml
 #, python-format
 msgid "Init Action"
 msgstr "Inicijalna akcija"

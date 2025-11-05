@@ -15,14 +15,13 @@ msgstr ""
 
 #. module: web_m2x_options_manager
 #. odoo-python
-#: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py:0
+#: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py
 #, python-format
 msgid "'%(field_name)s' is not a valid field for model '%(model_name)s'!"
 msgstr "'%(field_name)s' nije valjano polje za model '%(model_name)s'!"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_true
-#: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_true
 msgid "Add"
 msgstr "Dodaj"
 
@@ -62,6 +61,8 @@ msgid ""
 "Defines behaviour for 'Create & Edit' Wizard\n"
 "Set to False to prevent 'Create & Edit' Wizard to pop up"
 msgstr ""
+"Definiše ponašanje za čarobnjak 'Kreiraj i uredi'\n"
+"Postavi na Netačno da spriječite 'Kreiraj i uredi' čarobnjaka da se pojavi"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit
@@ -71,6 +72,10 @@ msgid ""
 "* Add/Remove: option 'Create & Edit' is set to True/False only if not already present in view definition\n"
 "* Force Add/Remove: option 'Create & Edit' is always set to True/False, overriding any pre-existing option"
 msgstr ""
+"Definiše ponašanje za opciju 'Kreiraj i uredi':\n"
+"* Ne radi ništa: ništa se ne radi\n"
+"* Dodaj/ukloni: opcija 'Kreiraj i uredi' je postavljena na Tačno/Netačno samo ako nije već prisutna u definiciji pogleda\n"
+"* Forsiraj dodavanje/uklanjanje: opcija 'Kreiraj i uredi' je uvijek postavljena na Tačno/Netačno, prepisujući bilo koju postojeću opciju"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create
@@ -80,6 +85,10 @@ msgid ""
 "* Add/Remove: option 'Create' is set to True/False only if not already present in view definition\n"
 "* Force Add/Remove: option 'Create' is always set to True/False, overriding any pre-existing option"
 msgstr ""
+"Definiše ponašanje za opciju 'Kreiraj':\n"
+"* Ne radi ništa: ništa se ne radi\n"
+"* Dodaj/ukloni: opcija 'Kreiraj' je postavljena na Tačno/Netačno samo ako nije već prisutna u definiciji pogleda\n"
+"* Forsiraj dodavanje/uklanjanje: opcija 'Kreiraj' je uvijek postavljena na Tačno/Netačno, prepisujući bilo koju postojeću opciju"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__display_name
@@ -88,7 +97,6 @@ msgstr "Prikazani naziv"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__none
-#: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__none
 msgid "Do nothing"
 msgstr "Ne radi ništa"
 
@@ -119,13 +127,11 @@ msgstr "Popuni"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__force_true
-#: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__force_true
 msgid "Force Add"
 msgstr "Forsiraj dodavanje"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__force_false
-#: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__force_false
 msgid "Force Remove"
 msgstr "Forsiraj uklanjanje"
 
@@ -176,7 +182,7 @@ msgstr "Modeli"
 
 #. module: web_m2x_options_manager
 #. odoo-python
-#: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py:0
+#: code:addons/web_m2x_options_manager/models/m2x_create_edit_option.py
 #, python-format
 msgid "Only Many2many and Many2one fields can be chosen!"
 msgstr "Samo Many2many i Many2one polja mogu biti odabrana!"
@@ -188,7 +194,6 @@ msgstr "Opcije moraju biti jedinstvene za svaki model/polje par!"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__set_false
-#: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create_edit__set_false
 msgid "Remove"
 msgstr "Otpis"
 

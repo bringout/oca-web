@@ -13,17 +13,17 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_refresher
 #. odoo-javascript
-#: code:addons/web_refresher/static/src/xml/refresher.xml:0
-#: code:addons/web_refresher/static/src/xml/refresher.xml:0
+#: code:addons/web_refresher/static/src/xml/refresher.xml
 #, python-format
 msgid "Refresh"
 msgstr "Osvježi"
 
 #. module: web_refresher
 #. odoo-javascript
-#: code:addons/web_refresher/static/src/xml/refresher.xml:0
+#: code:addons/web_refresher/static/src/xml/refresher.xml
 #, python-format
 msgid "Refresher"
 msgstr "Osvježavač"

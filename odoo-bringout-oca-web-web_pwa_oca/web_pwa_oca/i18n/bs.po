@@ -70,12 +70,14 @@ msgstr "Kratki naziv progresivne Web aplikacije"
 
 #. module: web_pwa_oca
 #. odoo-javascript
-#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
+#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js
 #, python-format
 msgid ""
 "Service workers are not supported! Maybe you are not using HTTPS or you work"
 " in private mode."
 msgstr ""
+"Service workeri nisu podržani! Možda ne koristite HTTPS ili radite u "
+"privatnom modu."
 
 #. module: web_pwa_oca
 #: model_terms:ir.ui.view,arch_db:web_pwa_oca.res_config_settings_view_form
@@ -94,35 +96,35 @@ msgstr "Boja teme"
 
 #. module: web_pwa_oca
 #. odoo-python
-#: code:addons/web_pwa_oca/models/res_config_settings.py:0
+#: code:addons/web_pwa_oca/models/res_config_settings.py
 #, python-format
 msgid "You can only upload PNG files bigger than 512x512"
 msgstr "Možete učitati samo PNG datoteke veće od 512x512"
 
 #. module: web_pwa_oca
 #. odoo-python
-#: code:addons/web_pwa_oca/models/res_config_settings.py:0
+#: code:addons/web_pwa_oca/models/res_config_settings.py
 #, python-format
 msgid "You can only upload SVG or PNG files. Found: %s."
 msgstr "Možete učitati samo SVG ili PNG datoteke. Pronađeno: %s."
 
 #. module: web_pwa_oca
 #. odoo-python
-#: code:addons/web_pwa_oca/models/res_config_settings.py:0
+#: code:addons/web_pwa_oca/models/res_config_settings.py
 #, python-format
 msgid "You can't upload a file with more than 2 MB."
 msgstr "Ne možete učitati datoteku veću od 2 MB."
 
 #. module: web_pwa_oca
 #. odoo-javascript
-#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
+#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js
 #, python-format
 msgid "[ServiceWorker] Registered:"
 msgstr "[ServiceWorker] Registrovan:"
 
 #. module: web_pwa_oca
 #. odoo-javascript
-#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js:0
+#: code:addons/web_pwa_oca/static/src/js/pwa_manager.js
 #, python-format
 msgid "[ServiceWorker] Registration failed: "
 msgstr "[ServiceWorker] Registracija neuspjela: "

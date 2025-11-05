@@ -13,26 +13,31 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__bottom
 msgid "Bottom"
 msgstr "Na dnu"
 
+# taken from hr.po
 #. module: web_chatter_position
 #: model:ir.model.fields,field_description:web_chatter_position.field_res_users__chatter_position
 msgid "Chatter Position"
 msgstr "Pozicija razgovora"
 
+# taken from hr.po
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__auto
 msgid "Responsive"
 msgstr "Responzivno"
 
+# taken from hr.po
 #. module: web_chatter_position
 #: model:ir.model.fields.selection,name:web_chatter_position.selection__res_users__chatter_position__sided
 msgid "Sided"
 msgstr "Sa strane"
 
+# taken from hr.po
 #. module: web_chatter_position
 #: model:ir.model,name:web_chatter_position.model_res_users
 msgid "User"

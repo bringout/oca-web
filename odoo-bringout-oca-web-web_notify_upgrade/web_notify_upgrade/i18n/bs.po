@@ -20,21 +20,22 @@ msgstr "Podaci modela"
 
 #. module: web_notify_upgrade
 #. odoo-python
-#: code:addons/web_notify_upgrade/models/ir_model.py:0
+#: code:addons/web_notify_upgrade/models/ir_model.py
 #, python-format
 msgid "Reload"
 msgstr "Ponovno učitaj"
 
 #. module: web_notify_upgrade
 #. odoo-python
-#: code:addons/web_notify_upgrade/models/ir_model.py:0
+#: code:addons/web_notify_upgrade/models/ir_model.py
 #, python-format
 msgid "Upgrade Notification"
 msgstr "Obavještenje o nadogradnji"
 
 #. module: web_notify_upgrade
 #. odoo-python
-#: code:addons/web_notify_upgrade/models/ir_model.py:0
+#: code:addons/web_notify_upgrade/models/ir_model.py
 #, python-format
 msgid "Your odoo instance has been upgraded, please reload the web page."
-msgstr "Vaša odoo instanca je nadograđena, molimo ponovno učitajte web stranicu."
+msgstr ""
+"Vaša odoo instanca je nadograđena, molimo ponovno učitajte web stranicu."

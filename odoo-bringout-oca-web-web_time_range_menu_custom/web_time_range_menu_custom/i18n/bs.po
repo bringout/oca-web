@@ -15,42 +15,42 @@ msgstr ""
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
-#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml
 #, python-format
 msgid "Add"
 msgstr "Dodaj"
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
-#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml
 #, python-format
 msgid "Custom period"
 msgstr "Prilagođeni period"
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
-#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml
 #, python-format
 msgid "Day"
 msgstr "Dan"
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
-#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml
 #, python-format
 msgid "Month"
 msgstr "Mjesec"
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
-#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml
 #, python-format
 msgid "Week"
 msgstr "Sedmica"
 
 #. module: web_time_range_menu_custom
 #. odoo-javascript
-#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml:0
+#: code:addons/web_time_range_menu_custom/static/src/xml/date_selector.xml
 #, python-format
 msgid "Year"
 msgstr "Godina"

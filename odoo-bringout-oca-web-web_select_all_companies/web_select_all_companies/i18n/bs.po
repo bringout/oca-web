@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: web_select_all_companies
 #. odoo-javascript
-#: code:addons/web_select_all_companies/static/src/xml/switch_all_company_menu.xml:0
+#: code:addons/web_select_all_companies/static/src/xml/switch_all_company_menu.xml
 #, python-format
 msgid "All Companies"
 msgstr "Sva preduzeća"
 
 #. module: web_select_all_companies
 #. odoo-javascript
-#: code:addons/web_select_all_companies/static/src/xml/switch_all_company_menu.xml:0
+#: code:addons/web_select_all_companies/static/src/xml/switch_all_company_menu.xml
 #, python-format
 msgid "Select All Companies"
 msgstr "Odaberi sva preduzeća"

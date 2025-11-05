@@ -15,67 +15,78 @@ msgstr ""
 
 #. module: web_notify
 #. odoo-python
-#: code:addons/web_notify/models/res_users.py:0
+#: code:addons/web_notify/models/res_users.py
 #, python-format
 msgid "Danger"
 msgstr "Opasnost"
 
 #. module: web_notify
 #. odoo-python
-#: code:addons/web_notify/models/res_users.py:0
+#: code:addons/web_notify/models/res_users.py
 #, python-format
 msgid "Default"
 msgstr "Zadano"
 
+# taken from hr.po
 #. module: web_notify
 #. odoo-python
-#: code:addons/web_notify/models/res_users.py:0
+#: code:addons/web_notify/models/res_users.py
 #, python-format
 msgid "Information"
 msgstr "Informacija"
 
+# taken from hr.po
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_danger_channel_name
+#, fuzzy
 msgid "Notify Danger Channel Name"
 msgstr "Naziv kanala upozorenja"
 
+# taken from hr.po
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_default_channel_name
+#, fuzzy
 msgid "Notify Default Channel Name"
 msgstr "Naziv kanala informacija"
 
+# taken from hr.po
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_info_channel_name
+#, fuzzy
 msgid "Notify Info Channel Name"
 msgstr "Naziv kanala informacija"
 
+# taken from hr.po
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_success_channel_name
+#, fuzzy
 msgid "Notify Success Channel Name"
 msgstr "Naziv kanala informacija"
 
+# taken from hr.po
 #. module: web_notify
 #: model:ir.model.fields,field_description:web_notify.field_res_users__notify_warning_channel_name
+#, fuzzy
 msgid "Notify Warning Channel Name"
 msgstr "Naziv kanala upozorenja"
 
 #. module: web_notify
 #. odoo-javascript
-#: code:addons/web_notify/static/src/js/services/notification_services.esm.js:0
+#: code:addons/web_notify/static/src/js/services/notification_services.esm.js
 #, python-format
 msgid "Open"
 msgstr "Otvori"
 
 #. module: web_notify
 #. odoo-python
-#: code:addons/web_notify/models/res_users.py:0
+#: code:addons/web_notify/models/res_users.py
 #, python-format
 msgid "Sending a notification to another user is forbidden."
 msgstr "Slanje obavještenja drugom korisniku je zabranjeno."
 
 #. module: web_notify
 #. odoo-python
-#: code:addons/web_notify/models/res_users.py:0
+#: code:addons/web_notify/models/res_users.py
 #, python-format
 msgid "Success"
 msgstr "Uspjeh"
@@ -115,9 +126,10 @@ msgstr "Test web obavještenja"
 msgid "User"
 msgstr "Korisnik"
 
+# taken from hr.po
 #. module: web_notify
 #. odoo-python
-#: code:addons/web_notify/models/res_users.py:0
+#: code:addons/web_notify/models/res_users.py
 #, python-format
 msgid "Warning"
 msgstr "Upozorenje"

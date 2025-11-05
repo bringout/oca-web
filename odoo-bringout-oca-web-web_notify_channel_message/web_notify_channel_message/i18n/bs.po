@@ -20,7 +20,7 @@ msgstr "Kanal rasprave"
 
 #. module: web_notify_channel_message
 #. odoo-python
-#: code:addons/web_notify_channel_message/models/mail_channel.py:0
+#: code:addons/web_notify_channel_message/models/mail_channel.py
 #, python-format
 msgid "You have a new message in channel %s"
 msgstr "Imate novu poruku u kanalu %s"

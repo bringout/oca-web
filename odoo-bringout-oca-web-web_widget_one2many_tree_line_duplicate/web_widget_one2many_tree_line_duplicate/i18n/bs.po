@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: web_widget_one2many_tree_line_duplicate
 #. odoo-javascript
-#: code:addons/web_widget_one2many_tree_line_duplicate/static/src/list/list_renderer.xml:0
+#: code:addons/web_widget_one2many_tree_line_duplicate/static/src/list/list_renderer.xml
 #, python-format
 msgid "Duplicate row"
 msgstr "Dupliraj red"

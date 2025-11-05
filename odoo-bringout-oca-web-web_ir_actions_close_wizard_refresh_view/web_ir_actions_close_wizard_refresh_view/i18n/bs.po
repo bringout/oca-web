@@ -94,6 +94,8 @@ msgid ""
 "Optional help text for the users with a description of the target view, such"
 " as its usage and purpose."
 msgstr ""
+"Opcionalni tekst pomoći za korisnike sa opisom ciljnog pogleda, kao što je "
+"njegova upotreba i svrha."
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,help:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__binding_model_id
@@ -101,3 +103,5 @@ msgid ""
 "Setting a value makes this action available in the sidebar for the given "
 "model."
 msgstr ""
+"Postavljanjem vrijednosti omogućava ovoj akciji da bude dostupna u meniju "
+"ovog modela."

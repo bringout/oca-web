@@ -48,9 +48,10 @@ msgstr "Tip vezivanja"
 msgid "Binding View Types"
 msgstr "Tipovi vezivanja pogleda"
 
+# taken from hr.po
 #. module: web_ir_actions_act_window_message
 #. odoo-javascript
-#: code:addons/web_ir_actions_act_window_message/static/src/js/web_ir_actions_act_window_message.esm.js:0
+#: code:addons/web_ir_actions_act_window_message/static/src/js/web_ir_actions_act_window_message.js
 #, python-format
 msgid "Close"
 msgstr "Zatvori"
@@ -101,6 +102,8 @@ msgid ""
 "Optional help text for the users with a description of the target view, such"
 " as its usage and purpose."
 msgstr ""
+"Opcionalni tekst pomoći za korisnike sa opisom ciljnog pogleda, kao što je "
+"njegova upotreba i svrha."
 
 #. module: web_ir_actions_act_window_message
 #: model:ir.model.fields,help:web_ir_actions_act_window_message.field_ir_actions_act_window_message__binding_model_id
@@ -108,3 +111,5 @@ msgid ""
 "Setting a value makes this action available in the sidebar for the given "
 "model."
 msgstr ""
+"Postavljanjem vrijednosti omogućava ovoj akciji da bude dostupna u meniju "
+"ovog modela."

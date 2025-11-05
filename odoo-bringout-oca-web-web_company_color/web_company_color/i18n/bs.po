@@ -20,6 +20,9 @@ msgid ""
 "                        In order for the changes to take effect, please refresh\n"
 "                        the page."
 msgstr ""
+"<span class=\"fa fa-info fa-2x me-2\"/>\n"
+"                        Da bi izmjene stupile na snagu, molimo osvježite\n"
+"                        stranicu."
 
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_button_bg
@@ -41,16 +44,19 @@ msgstr "Boja Teksta Dugmeta"
 msgid "Colors"
 msgstr "Boje"
 
+# taken from hr.po
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_res_company
 msgid "Companies"
 msgstr "Tvrtke"
 
+# taken from hr.po
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__company_colors
 msgid "Company Colors"
 msgstr "Boje tvrtke"
 
+# taken from hr.po
 #. module: web_company_color
 #: model_terms:ir.ui.view,arch_db:web_company_color.view_company_form
 msgid "Company Styles"
@@ -71,16 +77,19 @@ msgstr "Boja Teksta Linka"
 msgid "Link Text Color Hover"
 msgstr "Boja Teksta Linka Hover"
 
+# taken from hr.po
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_bg
 msgid "Navbar Background Color"
 msgstr "Boja pozadine Navigacijske trake"
 
+# taken from hr.po
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_bg_hover
 msgid "Navbar Background Color Hover"
 msgstr "Poja pozadine navigacijske trake (hoover)"
 
+# taken from hr.po
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__color_navbar_text
 msgid "Navbar Text Color"
@@ -91,6 +100,7 @@ msgstr "Boja teksta navigacijske trake"
 msgid "Qweb"
 msgstr "Qweb"
 
+# taken from hr.po
 #. module: web_company_color
 #: model:ir.model.fields,field_description:web_company_color.field_res_company__scss_modif_timestamp
 msgid "SCSS Modif. Timestamp"

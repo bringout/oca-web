@@ -60,6 +60,9 @@ msgid ""
 "beevaluated. You can also use `datetime` and `context_today` in the same "
 "way`ir.filters` do."
 msgstr ""
+"Dodajte dodatni kontekst ako je potrebno. Možete koristiti `ref('<xml_id>')`"
+" i to će biti evaluirano. Možete takođe koristiti `datetime` i "
+"`context_today` na isti način kao što `ir.filters` rade."
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__domain
@@ -68,6 +71,9 @@ msgid ""
 "beevaluated. You can also use `datetime` and `context_today` in the same "
 "way`ir.filters` do."
 msgstr ""
+"Dodajte dodatni domen ako je potrebno. Možete koristiti `ref('<xml_id>')` i "
+"to će biti evaluirano. Možete takođe koristiti `datetime` i `context_today` "
+"na isti način kao što `ir.filters` rade."
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__color
@@ -96,13 +102,11 @@ msgstr "Kontekst"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__create_uid
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__create_uid
 msgid "Created by"
 msgstr "Kreirao"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__create_date
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__create_date
 msgid "Created on"
 msgstr "Kreirano"
 
@@ -118,7 +122,6 @@ msgstr "Opis"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__display_name
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__display_name
 msgid "Display Name"
 msgstr "Prikazani naziv"
 
@@ -134,7 +137,6 @@ msgstr "Idi na početni ekran"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__id
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__id
 msgid "ID"
 msgstr "ID"
 
@@ -150,44 +152,36 @@ msgstr "Samo postavite naziv Font Awesome ikone. npr.: fa-truck"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen____last_update
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action____last_update
 msgid "Last Modified on"
 msgstr "Zadnje mijenjano"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_uid
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__write_uid
 msgid "Last Updated by"
 msgstr "Zadnji ažurirao"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_date
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__write_date
 msgid "Last Updated on"
 msgstr "Zadnje ažurirano"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__name
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__name
 msgid "Name"
 msgstr "Naziv:"
 
 #. module: web_quick_start_screen
 #: model:ir.actions.server,name:web_quick_start_screen.start_screen_action
-#: model:ir.model.fields,field_description:web_quick_start_screen.field_res_users__quick_start_screen_id
-#: model:res.groups,name:web_quick_start_screen.group_quick_start_screen
 msgid "Quick Start Screen"
 msgstr "Ekran brzog početka"
 
 #. module: web_quick_start_screen
 #: model:ir.actions.act_window,name:web_quick_start_screen.quick_start_screen_action_action
-#: model:ir.ui.menu,name:web_quick_start_screen.menu_quick_start_screen_action
 msgid "Quick Start Screen Actions"
 msgstr "Akcije brzog početka ekrana"
 
 #. module: web_quick_start_screen
 #: model:ir.actions.act_window,name:web_quick_start_screen.start_screen_action_config
-#: model:ir.ui.menu,name:web_quick_start_screen.menu_quick_start_screen_action_config
 msgid "Quick Start Screens"
 msgstr "Ekrani brzog početka"
 
@@ -203,10 +197,7 @@ msgstr "Sekvenca"
 
 #. module: web_quick_start_screen
 #. odoo-python
-#: code:addons/web_quick_start_screen/models/quick_start_screen.py:0
-#: code:addons/web_quick_start_screen/models/quick_start_screen.py:0
-#: model:ir.ui.menu,name:web_quick_start_screen.menu_start
-#: model:ir.ui.menu,name:web_quick_start_screen.menu_start_screen
+#: code:addons/web_quick_start_screen/models/quick_start_screen.py
 #, python-format
 msgid "Start"
 msgstr "Započni"

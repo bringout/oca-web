@@ -45,9 +45,7 @@ msgstr "Kreirano"
 
 #. module: web_editor_class_selector
 #. odoo-javascript
-#: code:addons/web_editor_class_selector/static/src/js/odoo-editor/OdooEditor.esm.js:0
-#: code:addons/web_editor_class_selector/static/src/xml/web_editor.xml:0
-#: code:addons/web_editor_class_selector/static/src/xml/web_editor.xml:0
+#: code:addons/web_editor_class_selector/static/src/js/odoo-editor/OdooEditor.esm.js
 #, python-format
 msgid "Custom CSS"
 msgstr "Prilagođeni CSS"
@@ -102,10 +100,10 @@ msgstr "Neka CSS klasa"
 msgid ""
 "The class name to be added to the tag. It must be created in the CSS file."
 msgstr ""
+"Naziv klase koji će biti dodan u tag. Mora biti kreiran u CSS datoteci."
 
 #. module: web_editor_class_selector
 #: model:ir.actions.act_window,name:web_editor_class_selector.action_web_editor_class
-#: model:ir.ui.menu,name:web_editor_class_selector.web_editor_class_menu
 msgid "Web Editor Class"
 msgstr "Web Editor klasa"
 

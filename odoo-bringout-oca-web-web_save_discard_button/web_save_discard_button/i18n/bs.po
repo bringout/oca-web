@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: web_save_discard_button
 #. odoo-javascript
-#: code:addons/web_save_discard_button/static/src/xml/template.xml:0
+#: code:addons/web_save_discard_button/static/src/xml/template.xml
 #, python-format
 msgid "Discard"
 msgstr "Napusti"
@@ -27,7 +27,7 @@ msgstr "HTTP usmjeravanje"
 
 #. module: web_save_discard_button
 #. odoo-javascript
-#: code:addons/web_save_discard_button/static/src/xml/template.xml:0
+#: code:addons/web_save_discard_button/static/src/xml/template.xml
 #, python-format
 msgid "Save"
 msgstr "Spremi"

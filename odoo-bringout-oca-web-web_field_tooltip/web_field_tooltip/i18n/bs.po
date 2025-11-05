@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: web_field_tooltip
 #. odoo-python
-#: code:addons/web_field_tooltip/models/ir_model_fields_tooltip.py:0
+#: code:addons/web_field_tooltip/models/ir_model_fields_tooltip.py
 #, python-format
 msgid "A tooltip already exists for this field"
 msgstr "Savjet već postoji za ovo polje"
@@ -27,7 +27,6 @@ msgstr "Aktivan"
 
 #. module: web_field_tooltip
 #: model_terms:ir.ui.view,arch_db:web_field_tooltip.ir_model_fields_tooltip_form_view
-#: model_terms:ir.ui.view,arch_db:web_field_tooltip.ir_model_fields_tooltip_search_view
 msgid "Archived"
 msgstr "Arhivirano"
 
@@ -68,7 +67,6 @@ msgstr "Savjet polja"
 
 #. module: web_field_tooltip
 #: model:ir.actions.act_window,name:web_field_tooltip.ir_model_fields_tooltip_act_window
-#: model:ir.ui.menu,name:web_field_tooltip.ir_model_fields_tooltip_menu
 msgid "Fields Tooltips"
 msgstr "Savjeti polja"
 
@@ -99,7 +97,7 @@ msgstr "Zadnje ažurirano"
 
 #. module: web_field_tooltip
 #. odoo-javascript
-#: code:addons/web_field_tooltip/static/src/views/form/form_controller.esm.js:0
+#: code:addons/web_field_tooltip/static/src/views/form/form_controller.esm.js
 #, python-format
 msgid "Manage tooltips"
 msgstr "Upravljaj savjetima"

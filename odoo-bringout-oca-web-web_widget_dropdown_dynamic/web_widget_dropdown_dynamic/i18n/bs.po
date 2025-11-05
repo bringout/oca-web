@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: web_widget_dropdown_dynamic
 #. odoo-javascript
-#: code:addons/web_widget_dropdown_dynamic/static/src/js/field_dynamic_dropdown.esm.js:0
+#: code:addons/web_widget_dropdown_dynamic/static/src/js/field_dynamic_dropdown.esm.js
 #, python-format
 msgid "Dynamic Dropdown"
 msgstr "Dinamička lista"

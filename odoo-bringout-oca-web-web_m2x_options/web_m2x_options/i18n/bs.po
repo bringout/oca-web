@@ -15,42 +15,43 @@ msgstr ""
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#: code:addons/web_m2x_options/static/src/components/base.xml
 #, python-format
 msgid ", are you sure it does not exist yet?"
 msgstr ", da li ste sigurni da ne postoji već?"
 
+# taken from hr.po
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#: code:addons/web_m2x_options/static/src/components/base.xml
 #, python-format
 msgid "Create"
 msgstr "Kreiraj"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js
 #, python-format
 msgid "Create \"%s\""
 msgstr "Kreiraj \"%s\""
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#: code:addons/web_m2x_options/static/src/components/base.xml
 #, python-format
 msgid "Create and Edit"
 msgstr "Kreiraj i uredi"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js
 #, python-format
 msgid "Create and edit..."
 msgstr "Kreiraj i uredi..."
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#: code:addons/web_m2x_options/static/src/components/base.xml
 #, python-format
 msgid "Discard"
 msgstr "Napusti"
@@ -62,35 +63,36 @@ msgstr "HTTP usmjeravanje"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/form.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/form.esm.js
 #, python-format
 msgid "New: %s"
 msgstr "Novo: %s"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js
 #, python-format
 msgid "No records"
 msgstr "Nema zapisa"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/form.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/form.esm.js
 #, python-format
 msgid "Open: "
 msgstr "Otvori: "
 
+# taken from hr.po
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js
 #, python-format
 msgid "Search More..."
 msgstr "Traži dalje..."
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js:0
+#: code:addons/web_m2x_options/static/src/components/relational_utils.esm.js
 #, python-format
 msgid "Start typing..."
 msgstr "Počnite pisati..."
@@ -102,14 +104,14 @@ msgstr "Sistemski parametar"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#: code:addons/web_m2x_options/static/src/components/base.xml
 #, python-format
 msgid "You are creating a new"
 msgstr "Kreirate novi"
 
 #. module: web_m2x_options
 #. odoo-javascript
-#: code:addons/web_m2x_options/static/src/components/base.xml:0
+#: code:addons/web_m2x_options/static/src/components/base.xml
 #, python-format
 msgid "as a new"
 msgstr "kao nov"

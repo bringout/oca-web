@@ -13,10 +13,10 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: \n"
 
+# taken from hr.po
 #. module: web_widget_image_download
 #. odoo-javascript
-#: code:addons/web_widget_image_download/static/src/xml/web_widget_image_download.xml:0
-#: code:addons/web_widget_image_download/static/src/xml/web_widget_image_download.xml:0
+#: code:addons/web_widget_image_download/static/src/xml/web_widget_image_download.xml
 #, python-format
 msgid "Download"
 msgstr "Preuzimanje"
