@@ -83,17 +83,17 @@ msgstr "ID"
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena na"
 
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnje ažuriranje izvršio"
 
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnje ažuriranje na"
 
 #. module: web_field_tooltip
 #. odoo-javascript

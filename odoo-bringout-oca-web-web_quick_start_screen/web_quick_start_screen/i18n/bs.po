@@ -153,17 +153,17 @@ msgstr "Samo postavite naziv Font Awesome ikone. npr.: fa-truck"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena na"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnje ažuriranje izvršio"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnje ažuriranje na"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__name
