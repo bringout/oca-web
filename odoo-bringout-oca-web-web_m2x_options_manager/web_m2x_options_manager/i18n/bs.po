@@ -143,17 +143,17 @@ msgstr "ID"
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__m2x_create_edit_option_ids

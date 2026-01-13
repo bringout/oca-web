@@ -164,17 +164,17 @@ msgstr "Stavke"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,help:web_dashboard_tile.field_tile_tile__action_id

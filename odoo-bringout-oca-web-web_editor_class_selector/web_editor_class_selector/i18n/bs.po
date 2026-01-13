@@ -63,17 +63,17 @@ msgstr "ID"
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__name

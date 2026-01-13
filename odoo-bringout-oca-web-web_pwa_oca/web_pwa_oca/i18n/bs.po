@@ -26,7 +26,7 @@ msgstr "Boja pozadine"
 #. module: web_pwa_oca
 #: model:ir.model,name:web_pwa_oca.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: web_pwa_oca
 #: model:ir.model.fields,field_description:web_pwa_oca.field_res_config_settings__pwa_icon

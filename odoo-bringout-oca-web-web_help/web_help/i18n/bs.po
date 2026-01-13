@@ -19,7 +19,7 @@ msgstr ""
 #: code:addons/web_help/static/src/user_trip.esm.js
 #, python-format
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr "Odustani"
 
 # taken from hr.po
 #. module: web_help
