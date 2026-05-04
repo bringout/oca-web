@@ -51,7 +51,7 @@ msgstr "Tipovi vezivanja pogleda"
 # taken from hr.po
 #. module: web_ir_actions_act_window_message
 #. odoo-javascript
-#: code:addons/web_ir_actions_act_window_message/static/src/js/web_ir_actions_act_window_message.js
+#: code:addons/web_ir_actions_act_window_message/static/src/js/web_ir_actions_act_window_message.js:0
 #, python-format
 msgid "Close"
 msgstr "Zatvori"
@@ -69,7 +69,7 @@ msgstr "Kreirano"
 #. module: web_ir_actions_act_window_message
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: web_ir_actions_act_window_message
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__xml_id
@@ -84,7 +84,7 @@ msgstr "ID"
 #. module: web_ir_actions_act_window_message
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: web_ir_actions_act_window_message
 #: model:ir.model.fields,field_description:web_ir_actions_act_window_message.field_ir_actions_act_window_message__write_uid

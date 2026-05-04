@@ -61,7 +61,7 @@ msgstr "Kreirano"
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__xml_id
@@ -76,7 +76,7 @@ msgstr "ID"
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: web_ir_actions_close_wizard_refresh_view
 #: model:ir.model.fields,field_description:web_ir_actions_close_wizard_refresh_view.field_ir_actions_close_wizard_refresh_view__write_uid

@@ -15,7 +15,7 @@ msgstr ""
 
 #. module: web_field_tooltip
 #. odoo-python
-#: code:addons/web_field_tooltip/models/ir_model_fields_tooltip.py
+#: code:addons/web_field_tooltip/models/ir_model_fields_tooltip.py:0
 #, python-format
 msgid "A tooltip already exists for this field"
 msgstr "Savjet već postoji za ovo polje"
@@ -23,7 +23,7 @@ msgstr "Savjet već postoji za ovo polje"
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__active
 msgid "Active"
-msgstr "Aktivan"
+msgstr "Aktivno"
 
 #. module: web_field_tooltip
 #: model_terms:ir.ui.view,arch_db:web_field_tooltip.ir_model_fields_tooltip_form_view
@@ -48,7 +48,7 @@ msgstr "Kreirano"
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__field_id
@@ -83,7 +83,7 @@ msgstr "ID"
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__write_uid
@@ -97,7 +97,7 @@ msgstr "Zadnje ažurirano"
 
 #. module: web_field_tooltip
 #. odoo-javascript
-#: code:addons/web_field_tooltip/static/src/views/form/form_controller.esm.js
+#: code:addons/web_field_tooltip/static/src/views/form/form_controller.esm.js:0
 #, python-format
 msgid "Manage tooltips"
 msgstr "Upravljaj savjetima"
@@ -105,7 +105,7 @@ msgstr "Upravljaj savjetima"
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__model_id
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__model
@@ -120,7 +120,7 @@ msgstr "Model za savjet polja."
 #. module: web_field_tooltip
 #: model:ir.model.fields,field_description:web_field_tooltip.field_ir_model_fields_tooltip__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: web_field_tooltip
 #: model:ir.model.fields,help:web_field_tooltip.field_ir_model_fields_tooltip__active

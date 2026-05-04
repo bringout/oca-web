@@ -21,7 +21,7 @@ msgstr "Akcija"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__active
 msgid "Active"
-msgstr "Aktivan"
+msgstr "Aktivno"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_category_form
@@ -35,7 +35,7 @@ msgstr "Prosjek"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Average value of '%s'"
 msgstr "Prosječna vrijednost '%s'"
@@ -93,7 +93,7 @@ msgstr "Prikaz"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__domain
@@ -102,14 +102,14 @@ msgstr "Domena"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Domain Error"
 msgstr "Greška Domena"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Error"
 msgstr "Greška"
@@ -164,7 +164,7 @@ msgstr "Stavke"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__write_uid
@@ -194,7 +194,7 @@ msgstr "Maksimum"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Maximum value of '%s'"
 msgstr "Maksimalna vrijednost '%s'"
@@ -206,7 +206,7 @@ msgstr "Medijan"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Median value of '%s'"
 msgstr "Medijan vrijednost '%s'"
@@ -214,11 +214,11 @@ msgstr "Medijan vrijednost '%s'"
 #. module: web_dashboard_tile
 #: model:ir.model.fields.selection,name:web_dashboard_tile.selection__tile_tile__primary_function__min
 msgid "Minimum"
-msgstr "Minimum"
+msgstr ""
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Minimum value of '%s'"
 msgstr "Minimalna vrijednost '%s'"
@@ -226,7 +226,7 @@ msgstr "Minimalna vrijednost '%s'"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_id
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_tile__model_name
@@ -236,11 +236,11 @@ msgstr "Model"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Number of records"
 msgstr "Broj zapisa"
@@ -267,7 +267,7 @@ msgstr "Postavke Pregleda"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Please select a field from the selected model."
 msgstr "Molimo izaberite polje iz odabranog modela."
@@ -359,7 +359,7 @@ msgstr "Sigurnost"
 #. module: web_dashboard_tile
 #: model:ir.model.fields,field_description:web_dashboard_tile.field_tile_category__sequence
 msgid "Sequence"
-msgstr "Sekvenca"
+msgstr "Redoslijed"
 
 #. module: web_dashboard_tile
 #: model_terms:ir.ui.view,arch_db:web_dashboard_tile.view_tile_tile_form
@@ -388,14 +388,14 @@ msgstr "Količina Pločica"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Total value of '%s'"
 msgstr "Ukupna vrijednost '%s'"
 
 #. module: web_dashboard_tile
 #. odoo-python
-#: code:addons/web_dashboard_tile/models/tile_tile.py
+#: code:addons/web_dashboard_tile/models/tile_tile.py:0
 #, python-format
 msgid "Unimplemented Feature. Search on Active field disabled."
 msgstr ""

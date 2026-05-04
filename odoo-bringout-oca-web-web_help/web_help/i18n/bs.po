@@ -16,15 +16,15 @@ msgstr ""
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/user_trip.esm.js
+#: code:addons/web_help/static/src/user_trip.esm.js:0
 #, python-format
 msgid "Cancel"
-msgstr "Odustani"
+msgstr "Otkaži"
 
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/change_password_trip.esm.js
+#: code:addons/web_help/static/src/change_password_trip.esm.js:0
 #, python-format
 msgid "Change the password here, make sure it's secure."
 msgstr "Ovdje promijenite lozinku, pobrinite se da je sigurna."
@@ -32,7 +32,7 @@ msgstr "Ovdje promijenite lozinku, pobrinite se da je sigurna."
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/change_password_trip.esm.js
+#: code:addons/web_help/static/src/change_password_trip.esm.js:0
 #, python-format
 msgid "Click here to confirm it."
 msgstr "Klikne ovdje za potvrdu."
@@ -40,7 +40,7 @@ msgstr "Klikne ovdje za potvrdu."
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/trip.esm.js
+#: code:addons/web_help/static/src/trip.esm.js:0
 #, python-format
 msgid "Close"
 msgstr "Zatvori"
@@ -48,7 +48,7 @@ msgstr "Zatvori"
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/trip.esm.js
+#: code:addons/web_help/static/src/trip.esm.js:0
 #, python-format
 msgid "Finish"
 msgstr "Završi"
@@ -56,7 +56,7 @@ msgstr "Završi"
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/trip.esm.js
+#: code:addons/web_help/static/src/trip.esm.js:0
 #, python-format
 msgid "Got it"
 msgstr "Shvatio"
@@ -64,7 +64,7 @@ msgstr "Shvatio"
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/user_trip.esm.js
+#: code:addons/web_help/static/src/user_trip.esm.js:0
 #, python-format
 msgid "Next"
 msgstr "Sljedeće"
@@ -72,7 +72,7 @@ msgstr "Sljedeće"
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/user_trip.esm.js
+#: code:addons/web_help/static/src/user_trip.esm.js:0
 #, python-format
 msgid "To create a new user click here."
 msgstr "Za kreiranje novog korisnika kliknite ovdje."
@@ -80,7 +80,7 @@ msgstr "Za kreiranje novog korisnika kliknite ovdje."
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/user_trip.esm.js
+#: code:addons/web_help/static/src/user_trip.esm.js:0
 #, python-format
 msgid "Use the searchbar to find specific users."
 msgstr "Koristite traku pretrage za traženje određenog korisnika."
@@ -88,7 +88,7 @@ msgstr "Koristite traku pretrage za traženje određenog korisnika."
 # taken from hr.po
 #. module: web_help
 #. odoo-javascript
-#: code:addons/web_help/static/src/user_trip.esm.js
+#: code:addons/web_help/static/src/user_trip.esm.js:0
 #, python-format
 msgid "You can switch to different views here."
 msgstr "Ovdje se možete prebaciti u različite poglede."

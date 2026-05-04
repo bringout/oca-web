@@ -98,7 +98,7 @@ msgstr "Boja teksta navigacijske trake"
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_ir_qweb
 msgid "Qweb"
-msgstr "Qweb"
+msgstr ""
 
 # taken from hr.po
 #. module: web_company_color

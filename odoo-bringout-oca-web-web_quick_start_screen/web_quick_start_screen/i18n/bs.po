@@ -51,7 +51,7 @@ msgstr "Akcije koje se pokreću sa ekrana brzog početka"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__active
 msgid "Active"
-msgstr "Aktivan"
+msgstr "Aktivno"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,help:web_quick_start_screen.field_quick_start_screen_action__context
@@ -123,7 +123,7 @@ msgstr "Opis"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__domain
@@ -153,7 +153,7 @@ msgstr "Samo postavite naziv Font Awesome ikone. npr.: fa-truck"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_uid
@@ -168,7 +168,7 @@ msgstr "Zadnje ažurirano"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: web_quick_start_screen
 #: model:ir.actions.server,name:web_quick_start_screen.start_screen_action
@@ -193,11 +193,11 @@ msgstr "Ekran izbora brze akcije"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__sequence
 msgid "Sequence"
-msgstr "Sekvenca"
+msgstr "Redoslijed"
 
 #. module: web_quick_start_screen
 #. odoo-python
-#: code:addons/web_quick_start_screen/models/quick_start_screen.py
+#: code:addons/web_quick_start_screen/models/quick_start_screen.py:0
 #, python-format
 msgid "Start"
 msgstr "Započni"
@@ -215,24 +215,24 @@ msgstr "Korisnik"
 #. module: web_quick_start_screen
 #: model:ir.model.fields.selection,name:web_quick_start_screen.selection__quick_start_screen_action__action_ref_id__ir_actions_act_url
 msgid "ir.actions.act_url"
-msgstr "ir.actions.act_url"
+msgstr ""
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields.selection,name:web_quick_start_screen.selection__quick_start_screen_action__action_ref_id__ir_actions_act_window
 msgid "ir.actions.act_window"
-msgstr "ir.actions.act_window"
+msgstr ""
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields.selection,name:web_quick_start_screen.selection__quick_start_screen_action__action_ref_id__ir_actions_client
 msgid "ir.actions.client"
-msgstr "ir.actions.client"
+msgstr ""
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields.selection,name:web_quick_start_screen.selection__quick_start_screen_action__action_ref_id__ir_actions_report
 msgid "ir.actions.report"
-msgstr "ir.actions.report"
+msgstr ""
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields.selection,name:web_quick_start_screen.selection__quick_start_screen_action__action_ref_id__ir_actions_server
 msgid "ir.actions.server"
-msgstr "ir.actions.server"
+msgstr ""

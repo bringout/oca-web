@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: web_tree_duplicate
 #. odoo-javascript
-#: code:addons/web_tree_duplicate/static/src/web_tree_duplicate.esm.js
+#: code:addons/web_tree_duplicate/static/src/web_tree_duplicate.esm.js:0
 #, python-format
 msgid "Duplicate"
 msgstr "Vodič"
 
 #. module: web_tree_duplicate
 #. odoo-javascript
-#: code:addons/web_tree_duplicate/static/src/web_tree_duplicate.esm.js
+#: code:addons/web_tree_duplicate/static/src/web_tree_duplicate.esm.js:0
 #, python-format
 msgid "Duplicated Records"
 msgstr "Duplirani zapisi"

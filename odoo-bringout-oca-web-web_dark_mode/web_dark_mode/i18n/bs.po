@@ -16,7 +16,7 @@ msgstr ""
 # taken from hr.po
 #. module: web_dark_mode
 #. odoo-javascript
-#: code:addons/web_dark_mode/static/src/js/switch_item.esm.js
+#: code:addons/web_dark_mode/static/src/js/switch_item.esm.js:0
 #, python-format
 msgid "Dark Mode"
 msgstr "Tamni način"
