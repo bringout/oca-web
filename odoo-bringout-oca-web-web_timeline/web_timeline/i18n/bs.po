@@ -82,7 +82,7 @@ msgstr "Danas"
 #. module: web_timeline
 #: model:ir.model,name:web_timeline.model_ir_ui_view
 msgid "View"
-msgstr "Pregled"
+msgstr "Prikaz"
 
 # taken from hr.po
 #. module: web_timeline
@@ -104,7 +104,7 @@ msgstr "Upozorenje"
 #: code:addons/web_timeline/static/src/xml/web_timeline.xml:0
 #, python-format
 msgid "Week"
-msgstr "Tjedan"
+msgstr "Sedmica"
 
 # taken from hr.po
 #. module: web_timeline

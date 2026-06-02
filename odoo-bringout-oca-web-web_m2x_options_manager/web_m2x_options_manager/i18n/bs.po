@@ -93,7 +93,7 @@ msgstr ""
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields.selection,name:web_m2x_options_manager.selection__m2x_create_edit_option__option_create__none
@@ -143,17 +143,17 @@ msgstr "ID"
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__m2x_create_edit_option_ids
@@ -200,4 +200,4 @@ msgstr "Otpis"
 #. module: web_m2x_options_manager
 #: model:ir.model,name:web_m2x_options_manager.model_ir_ui_view
 msgid "View"
-msgstr "Pregled"
+msgstr "Prikaz"

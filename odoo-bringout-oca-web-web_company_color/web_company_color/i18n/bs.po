@@ -48,7 +48,7 @@ msgstr "Boje"
 #. module: web_company_color
 #: model:ir.model,name:web_company_color.model_res_company
 msgid "Companies"
-msgstr "Tvrtke"
+msgstr "Kompanije"
 
 # taken from hr.po
 #. module: web_company_color

@@ -53,7 +53,7 @@ msgstr "Prilagođeni CSS"
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__id
@@ -63,17 +63,17 @@ msgstr "ID"
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: web_editor_class_selector
 #: model:ir.model.fields,field_description:web_editor_class_selector.field_web_editor_class__name

@@ -123,7 +123,7 @@ msgstr "Opis"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen_action__domain
@@ -153,17 +153,17 @@ msgstr "Samo postavite naziv Font Awesome ikone. npr.: fa-truck"
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: web_quick_start_screen
 #: model:ir.model.fields,field_description:web_quick_start_screen.field_quick_start_screen__name

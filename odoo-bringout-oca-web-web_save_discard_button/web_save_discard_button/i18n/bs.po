@@ -30,4 +30,4 @@ msgstr "HTTP usmjeravanje"
 #: code:addons/web_save_discard_button/static/src/xml/template.xml:0
 #, python-format
 msgid "Save"
-msgstr "Spremi"
+msgstr "Snimi"
