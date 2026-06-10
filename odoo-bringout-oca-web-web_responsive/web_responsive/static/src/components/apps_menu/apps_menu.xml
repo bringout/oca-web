@@ -10,13 +10,18 @@
         and the dropdown for the user where can logout
         we had to disable the lef sidebar to keep our web_resposive toggle button working
         and to keep the user dropdown in its original place -->
-        <xpath expr="//t[@t-if='this.ui.isSmall']" position="attributes">
+        <!-- bringout: anchor structurally instead of on the t-if expression —
+        core renamed it env.isSmall -> this.ui.isSmall between the May-2026
+        oca-ocb snapshot and current OCB 19.0; this xpath matches both. -->
+        <xpath expr="//a[@t-ref='menuApps']/.." position="attributes">
             <attribute name="t-if">false</attribute>
         </xpath>
         <!-- The kanban dropdown is replaced with the odoo default one
         as the default one took physical place in the DOM -->
         <xpath expr="//Dropdown" position="replace">
-            <t t-if="this.ui.isSmall">
+            <!-- bringout: env.isSmall works on both the old and current core
+            (the old NavBar component has no this.ui). -->
+            <t t-if="env.isSmall">
                 <t t-call="web.NavBar.AppsMenu.Sidebar" />
             </t>
             <t t-else="" />
