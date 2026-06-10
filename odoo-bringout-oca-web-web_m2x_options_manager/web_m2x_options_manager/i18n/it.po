@@ -35,11 +35,6 @@ msgid "Create & Edit Option"
 msgstr "Opzione crea & modifica"
 
 #. module: web_m2x_options_manager
-#: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit_wizard
-msgid "Create & Edit Wizard"
-msgstr "Procedura guidata crea & modifica"
-
-#. module: web_m2x_options_manager
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__option_create
 msgid "Create Option"
 msgstr "Opzione crea"
@@ -58,16 +53,6 @@ msgstr "Creato da"
 #: model:ir.model.fields,field_description:web_m2x_options_manager.field_m2x_create_edit_option__create_date
 msgid "Created on"
 msgstr "Creato il"
-
-#. module: web_m2x_options_manager
-#: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit_wizard
-msgid ""
-"Defines behaviour for 'Create & Edit' Wizard\n"
-"Set to False to prevent 'Create & Edit' Wizard to pop up"
-msgstr ""
-"Definisce il comportamento per la procedura guidata 'crea & modifica'\n"
-"Imposta a Falso per impedire il pop up della procedura guidata 'crea & "
-"modifica'"
 
 #. module: web_m2x_options_manager
 #: model:ir.model.fields,help:web_m2x_options_manager.field_m2x_create_edit_option__option_create_edit
@@ -168,7 +153,7 @@ msgid "Last Updated on"
 msgstr "Ultimo aggiornamento il"
 
 #. module: web_m2x_options_manager
-#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__m2x_create_edit_option_ids
+#: model:ir.model.fields,field_description:web_m2x_options_manager.field_ir_model__m2x_option_ids
 msgid "M2X Create Edit Option"
 msgstr "Crea opzione modifica M2X"
 
