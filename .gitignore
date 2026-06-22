@@ -63,3 +63,8 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 *.pyc
+
+# web_responsive vendors Fuse.js — the wheel needs it tracked (overrides lib/ above)
+!odoo-bringout-oca-web-web_responsive/web_responsive/static/src/lib/
+!odoo-bringout-oca-web-web_responsive/web_responsive/static/src/lib/fuse/
+!odoo-bringout-oca-web-web_responsive/web_responsive/static/src/lib/fuse/*.js
