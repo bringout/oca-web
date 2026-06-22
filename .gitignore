@@ -68,3 +68,7 @@ Thumbs.db
 !odoo-bringout-oca-web-web_responsive/web_responsive/static/src/lib/
 !odoo-bringout-oca-web-web_responsive/web_responsive/static/src/lib/fuse/
 !odoo-bringout-oca-web-web_responsive/web_responsive/static/src/lib/fuse/*.js
+
+# web_widget_image_webcam vendors webcam.js — wheel needs it tracked (overrides lib/)
+!odoo-bringout-oca-web-web_widget_image_webcam/web_widget_image_webcam/static/src/lib/
+!odoo-bringout-oca-web-web_widget_image_webcam/web_widget_image_webcam/static/src/lib/*.js
